@@ -19,3 +19,5 @@ A classe de dados deve se chamar Heroes e possuir a seguinte estrutura
     "usaCapa": true,
     "universo": "DC"
 }
+
+models, collections, repositories, service, program e controller
